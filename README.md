@@ -1,2 +1,2 @@
-# circ-buf
-A fully encapsulated, no-flags circular buffer implementation in C.
+# Circular Buffer Library
+A fully encapsulated, no-flags, and dynamically allocated circular buffer implementation in C.
